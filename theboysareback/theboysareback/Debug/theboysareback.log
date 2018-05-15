@@ -1,0 +1,6 @@
+﻿  Calc.cpp
+d:\програпро\theboysareback\theboysareback\theboysareback\calc.cpp(95): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\програпро\theboysareback\theboysareback\theboysareback\calc.cpp(96): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\програпро\theboysareback\theboysareback\theboysareback\calc.cpp(105): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\програпро\theboysareback\theboysareback\theboysareback\calc.cpp(284): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  theboysareback.vcxproj -> D:\програпро\theboysareback\theboysareback\Debug\theboysareback.exe
