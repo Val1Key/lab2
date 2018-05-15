@@ -4,7 +4,7 @@
 class Complex {
 public:
 	void Vvod();
-	double Modul();
+	double Modul();//some coment
 	double Argument();
 
 private:
